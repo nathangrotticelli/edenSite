@@ -26,9 +26,6 @@
     "postcss-cli": "^2.5.2",
     "standard": "^7.1.2"
   },
-  "scripts": {
-    "start": "make"
-  },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
     "@littlstar/three-canvas-renderer": "^1.0.0",
