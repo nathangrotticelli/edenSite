@@ -2,8 +2,8 @@
   "name": "@littlstar/axis",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
-  "main": "lib/index.js",
-  "style": "lib/index.css",
+  "main": "src/index.js",
+  "style": "src/index.css",
   "keywords": [
     "panoramic",
     "video",
