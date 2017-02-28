@@ -45,6 +45,9 @@
   "engines":{
     "node": "6.2.2"
   },
+  "scripts": {
+    "start": "node example/index.js"
+  },
   "standard": {
     "ignore": [
       "public",
