@@ -2,8 +2,8 @@
   "name": "axis",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
-  "main": "lib/index.js",
-  "style": "lib/index.css",
+  "main": "example/index.js",
+  "style": "example/index.css",
   "keywords": [
     "panoramic",
     "video",
@@ -44,7 +44,7 @@
     "yields-keycode": "^1.1.0"
   },
   "scripts": {
-    "start": "node ../src/index.js"
+    "start": "node ./src/index.js"
   },
   "standard": {
     "ignore": [
