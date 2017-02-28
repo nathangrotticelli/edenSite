@@ -31,7 +31,7 @@
     "email": "axis@littlstar.com"
   },
   "scripts": {
-    "start": "node $(BUDO) example/index.js --dir example --dir public/assets --live -- $(BROWSERIFY_TRANSFORM)"
+    "start": "node"
   },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
