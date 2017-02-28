@@ -1,6 +1,6 @@
 {
   "name": "@littlstar/axis360",
-  "version": "1.22.0",
+  "version": "1.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
   "style": "lib/index.css",
