@@ -47,9 +47,6 @@
     "url": "https://github.com/littlstar/axis/issues",
     "email": "axis@littlstar.com"
   },
-  "scripts": {
-    "start": "node ../dist/axis.js"
-  },
   "standard": {
     "ignore": [
       "public",
