@@ -30,9 +30,6 @@
     "url": "https://github.com/littlstar/axis/issues",
     "email": "axis@littlstar.com"
   },
-  "scripts":{
-    "start": "make all"
-  },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
     "@littlstar/three-canvas-renderer": "^1.0.0",
