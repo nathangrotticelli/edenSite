@@ -48,7 +48,7 @@
     "email": "axis@littlstar.com"
   },
   "scripts": {
-    "start": "make dist"
+    "start": "make all"
   },
   "standard": {
     "ignore": [
