@@ -27,7 +27,7 @@
     "standard": "^7.1.2"
   },
   "scripts": {
-    "start": "make example"
+    "start": "make"
   },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
