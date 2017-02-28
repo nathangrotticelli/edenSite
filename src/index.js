@@ -37,7 +37,7 @@
  * @private
  */
 
-import three from 'three-js'
+import * three from 'three'
 import dom from 'domify'
 import EventEmitter from 'component-emitter'
 import events from 'component-events'
