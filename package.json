@@ -44,7 +44,7 @@
     "yields-keycode": "^1.1.0"
   },
   "scripts": {
-    "start": "make example"
+    "start": "node app"
   },
   "standard": {
     "ignore": [
