@@ -1,6 +1,3 @@
-
-'use strict'
-
 /**
  * @license
  * Copyright Little Star Media Inc. and other contributors.
@@ -25,19 +22,19 @@
  * USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-/**
- * The Axis module
- *
- * @module axis
- * @type {Function}
- */
+// *
+//  * The Axis module
+//  *
+//  * @module axis
+//  * @type {Function}
 
-/**
- * Module dependencies
- * @private
- */
 
-import * three from 'three'
+// /**
+//  * Module dependencies
+//  * @private
+//  */
+
+import three from 'three'
 import dom from 'domify'
 import EventEmitter from 'component-emitter'
 import events from 'component-events'
