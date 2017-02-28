@@ -54,7 +54,8 @@ frame.on('vrhmdavailable', function (e) {
 
 frame.once('ready', function () {
   frame.focus()
-  frame.rotate('x',{value: -.04}) //adjusts logo/start position
+  frame.rotate('x', {value: -.04})
+  // adjusts logo and start position
   // frame.rotate('y', {value: 0.005, every: 100})
   // updatePreview()
   // setInterval(updatePreview, 2000)
