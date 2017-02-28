@@ -46,7 +46,7 @@
     "node": "6.2.2"
   },
   "scripts": {
-    "start": "node example/index.js --dir example --dir public/assets --live -- $(BROWSERIFY_TRANSFORM)"
+    "start": "node example/index.js --dir example --dir public/assets --live"
   },
   "standard": {
     "ignore": [
