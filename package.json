@@ -46,7 +46,7 @@
     "node": "6.2.2"
   },
   "scripts": {
-    "start": "node example/index.js"
+    "start": "make example"
   },
   "standard": {
     "ignore": [
