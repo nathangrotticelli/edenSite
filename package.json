@@ -48,7 +48,7 @@
     "email": "axis@littlstar.com"
   },
   "scripts": {
-    "start": "node /index.html"
+    "start": "node app"
   },
   "standard": {
     "ignore": [
