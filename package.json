@@ -1,5 +1,5 @@
 {
-  "name": "@littlstar/axis360",
+  "name": "axis360",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
@@ -46,7 +46,7 @@
     "node": "6.2.2"
   },
   "scripts": {
-    "start": "make example"
+    "start": "node src/index.js"
   },
   "standard": {
     "ignore": [
