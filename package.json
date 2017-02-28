@@ -1,5 +1,5 @@
 {
-  "name": "axis360",
+  "name": "axis",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
@@ -44,7 +44,7 @@
     "yields-keycode": "^1.1.0"
   },
   "scripts": {
-    "start": "node ../app"
+    "start": "node ../src"
   },
   "standard": {
     "ignore": [
