@@ -1,5 +1,5 @@
 {
-  "name": "edenVRSite",
+  "name": "@littlstar/axis",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
@@ -44,9 +44,6 @@
   },
   "engines":{
     "node": "6.2.2"
-  },
-  "scripts": {
-    "start": "node example/index.js --dir example --dir public/assets --live"
   },
   "standard": {
     "ignore": [
