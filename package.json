@@ -44,7 +44,7 @@
     "yields-keycode": "^1.1.0"
   },
   "scripts": {
-    "start": "make ./src/index.js"
+    "start": "make"
   },
   "standard": {
     "ignore": [
