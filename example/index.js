@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-import { createAxisFrame } from '../src'
+const { createAxisFrame } = require('../src')
 
 /**
  * Debugging.
