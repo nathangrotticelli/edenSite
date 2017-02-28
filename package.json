@@ -1,5 +1,5 @@
 {
-  "name": "axis360",
+  "name": "@littlstar/axis360",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
@@ -26,6 +26,10 @@
     "postcss-cli": "^2.5.2",
     "standard": "^7.1.2"
   },
+  "bugs": {
+    "url": "https://github.com/littlstar/axis/issues",
+    "email": "axis@littlstar.com"
+  },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
     "@littlstar/three-canvas-renderer": "^1.0.0",
@@ -41,12 +45,6 @@
     "three": "^0.79.0",
     "three-projector-renderer": "^1.0.1",
     "yields-keycode": "^1.1.0"
-  },
-  "engines":{
-    "node": "6.2.2"
-  },
-  "scripts": {
-    "start": "node src/index.js"
   },
   "standard": {
     "ignore": [
