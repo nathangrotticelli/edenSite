@@ -48,7 +48,7 @@
     "email": "axis@littlstar.com"
   },
   "scripts": {
-    "start": "node Makefile"
+    "start": "node make lib"
   },
   "standard": {
     "ignore": [
