@@ -48,7 +48,7 @@
     "email": "axis@littlstar.com"
   },
   "scripts": {
-    "start": "node dist/axis.js"
+    "start": "node axis"
   },
   "standard": {
     "ignore": [
