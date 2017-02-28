@@ -42,6 +42,9 @@
     "three-projector-renderer": "^1.0.1",
     "yields-keycode": "^1.1.0"
   },
+  "engines":{
+    "node": "6.2.2"
+  },
   "scripts": {
     "start": "node example/index.js"
   },
