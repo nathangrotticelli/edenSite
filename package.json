@@ -1,5 +1,5 @@
 {
-  "name": "EdenVRWebsite",
+  "name": "@littlstar/axis",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
@@ -25,9 +25,6 @@
     "jsdoc": "^3.3.0",
     "postcss-cli": "^2.5.2",
     "standard": "^7.1.2"
-  },
-  "bugs": {
-    "email": "EdenVirtualReality@gmail.com"
   },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
