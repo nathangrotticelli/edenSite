@@ -1,5 +1,5 @@
 {
-  "name": "axis360",
+  "name": "@littlstar/axis360",
   "version": "1.22.0",
   "description": "The online home of EdenVR.",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "standard": "^7.1.2"
   },
   "scripts": {
-    "start": "make"
+    "start": "make all"
   },
   "dependencies": {
     "@littlstar/fullscreen": "^2.0.0",
