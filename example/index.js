@@ -43,7 +43,8 @@ const frame = createAxisFrame(player, {
   loop: true,
   allowWheel: false,
   muted: true,
-  src: '/backgroundReel.mp4' // budo magic. this is actually /public/assets/paramotor.mp4
+  src: '/reel.webm'
+  // src: '/backgroundReel.mp4' budo magic. this is actually /public/assets/paramotor.mp4
 })
 
 frame.render()
