@@ -47,6 +47,9 @@
     "url": "https://github.com/littlstar/axis/issues",
     "email": "axis@littlstar.com"
   },
+  "scripts": {
+    "start": "make"
+  },
   "standard": {
     "ignore": [
       "public",
